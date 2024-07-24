@@ -1,0 +1,9 @@
+Priority: standard
+Standards-Version: 3.9.2
+
+Package: adwaita-icon-theme-dummy
+Provides: adwaita-icon-theme, adwaita-icon-theme-full , gnome-icon-theme-symbolic
+Version: 99.9.9
+Maintainer: dummy
+Architecture: all
+Description: fake adwaita icon theme
