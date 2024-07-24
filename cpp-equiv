@@ -1,0 +1,8 @@
+Section: interpreters
+Priority: optional
+Standards-Version: 3.9.2
+
+Package: cpp
+Version: 99.9.9
+Maintainer: dummy
+Architecture: all
