@@ -3,7 +3,7 @@ Priority: standard
 Standards-Version: 3.9.2
 
 Package: perl-lxqt-dummy
-Provides: libencode-locale-perl, libfile-desktopentry-perl, libfile-basedir-perl, libipc-system-simple-perl, libregexp-ipv6-perl, liburi-perl 
+Provides: libencode-locale-perl, libfile-desktopentry-perl, libfile-basedir-perl, libipc-system-simple-perl, libregexp-ipv6-perl, liburi-perl, libfile-mimeinfo-perl
 Version: 99.9.9
 Maintainer: dummy
 Architecture: all
