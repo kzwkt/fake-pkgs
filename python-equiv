@@ -1,0 +1,12 @@
+Section: python
+Priority: optional
+Standards-Version: 3.9.2
+
+Package: python-dummy
+Version: 1.0
+Maintainer: Your Name <mail@domain.com>
+Provides: python3:any , python3-minimal:any
+Architecture: all
+Description: A dummy package to provide Python dependency
+ This package is a placeholder that provides the Python dependency
+ without installing the actual Python packages.
