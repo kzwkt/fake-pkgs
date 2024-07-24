@@ -1,0 +1,10 @@
+Section: admin
+Priority: optional
+Provides: dbus-system-bus , default-dbus-system-bus
+Standards-Version: 3.9.2
+
+Package: dbus
+Version: 99.9.9
+Maintainer: dummy
+Architecture: all
+Description: fake dbus when using dbus-broker
