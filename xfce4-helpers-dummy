@@ -1,0 +1,9 @@
+Section: xfce
+Priority: optional
+Standards-Version: 3.9.2
+
+Package: xfce4-helpers
+Version: 99.9.9
+Maintainer: dummy
+Architecture: all
+Description: fake xfce4-helpers to avoid python dependecies
