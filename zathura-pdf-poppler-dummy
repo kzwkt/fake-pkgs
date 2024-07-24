@@ -1,0 +1,9 @@
+Priority: standard
+Standards-Version: 3.9.2
+
+Package: zathura-pdf-poppler-dummy
+Provides: pdf-viewer , zathura-pdf-poppler
+Version: 99.9.9
+Maintainer: dummy
+Architecture: all
+Description: fake pkg
