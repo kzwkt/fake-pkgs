@@ -24,8 +24,10 @@ x11-xserver-utils  needs cpp(c preprocessor) dont know which binary excatly
  - xvidtune, a tool for customizing X server modelines for your monitor.
 
 
+upower pulls dbus and some things until dbus-broker provides dbus lets use dummy 
+
 i have python from anaconda so instally dummy for now
-sudo dpkg -i  cpp_99.9.9_all.deb  xfce4-helpers_99.9.9_all.deb python-dummy_1.0_all.deb
+sudo dpkg -i  cpp_99.9.9_all.deb  xfce4-helpers_99.9.9_all.deb python-dummy_1.0_all.deb dbus_99.9.9_all.deb
 sudo apt install xfce4
 
 Suggested packages:
