@@ -23,6 +23,8 @@ x11-xserver-utils  needs cpp(c preprocessor) dont know which binary excatly
  - xstdcmap, a utility to selectively define standard colormap properties;
  - xvidtune, a tool for customizing X server modelines for your monitor.
 
+
+i have python from anaconda so instally dummy for now
 sudo dpkg -i  cpp_99.9.9_all.deb  xfce4-helpers_99.9.9_all.deb python-dummy_1.0_all.deb
 sudo apt install xfce4
 
