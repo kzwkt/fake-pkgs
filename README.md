@@ -1,3 +1,6 @@
+sudo apt install equivs 
+
+
 # fake-pkgs
 ```
 https://packages.debian.org/stable/amd64/xfce4-helpers/filelist
