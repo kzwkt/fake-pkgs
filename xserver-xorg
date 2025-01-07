@@ -1,0 +1,10 @@
+Package: xserver-xorg
+Version: 99:99
+Architecture: any
+Recommends:
+ libgl1-mesa-dri,
+ xserver-xorg-legacy [linux-any],
+Provides: xserver
+Description: X.Org X server
+ This package depends on the full suite of the server and drivers for the
+ X.Org X server.  It does not provide the actual server itself.
