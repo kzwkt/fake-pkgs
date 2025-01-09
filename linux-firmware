@@ -1,0 +1,5 @@
+Package: linux-firmware
+Version: 99:99.99.99
+Provides: amd64-microcode
+Maintainer: faker
+Description: fake linux-firmware
