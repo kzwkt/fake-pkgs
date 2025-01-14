@@ -1,0 +1,5 @@
+# rename it as PKGBUILD and makepkg -si
+pkgname='xorg-xwayland'
+pkgver=99.1
+pkgrel=1
+arch=(any)
