@@ -1,0 +1,6 @@
+Standards-Version: 3.9.2
+
+Package: fonts-dejavu
+Version: 99.9.9
+Maintainer: dummy
+Architecture: all
